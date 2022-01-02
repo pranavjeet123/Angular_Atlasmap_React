@@ -1,0 +1,39 @@
+{
+    "name": "@types/dagre",
+    "version": "0.7.42",
+    "description": "TypeScript definitions for dagre",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "Qinfeng Chen",
+            "url": "https://github.com/qinfchen",
+            "githubUsername": "qinfchen"
+        },
+        {
+            "name": "Lisa Vallfors",
+            "url": "https://github.com/Frankrike",
+            "githubUsername": "Frankrike"
+        },
+        {
+            "name": "Pete Vilter",
+            "url": "https://github.com/vilterp",
+            "githubUsername": "vilterp"
+        },
+        {
+            "name": "David Newell",
+            "url": "https://github.com/rustedgrail",
+            "githubUsername": "rustedgrail"
+        }
+    ],
+    "main": "",
+    "types": "index",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+        "directory": "types/dagre"
+    },
+    "scripts": {},
+    "dependencies": {},
+    "typesPublisherContentHash": "4f4d18e02859fea7dce15cde2b2e93665212ba17f746a5e4b9baa4f71e03e015",
+    "typeScriptVersion": "2.2"
+}
